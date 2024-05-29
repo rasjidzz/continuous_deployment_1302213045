@@ -6,6 +6,9 @@ public class Driver {
 		
 		Counter counter = new Counter();
 		
+		System.out.println("Muhammad Risjad Shidqi Febian - 1302213045");
+		System.out.println("Continuous Development Gagal Version");
+		
 		System.out.println("Current count:" + counter.getCount());
 		
 		counter.increment();
